@@ -1,0 +1,38 @@
+.logo {
+    width: 66.6667%;
+    background-color: brown;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+.search {
+    width: 33.3335%;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    float: right;
+}
+.header {
+    display: flex;
+    margin: 0px auto;
+    height: 120px;
+}
+.language {
+
+}
+.main{
+
+}
+.navbar ul {
+list-style-type: none;
+display: flex;
+}
+.navbar ul li{
+    width: 10%;
+}
+. navbar ul li a {
+    color: ghostwhite;
+    text-decoration: none;
+}
